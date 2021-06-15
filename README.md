@@ -1,0 +1,1 @@
+# picture-wordpress-theme
