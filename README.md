@@ -5,10 +5,10 @@ Création d'un thème Wordpress sur-mesure effectué lors de mon stage chez **Ul
 ## Objectifs
 
 - Afficher tous les articles sur la page d'accueil (`index.php`)
-- Trier les articles par catégories (voir`archive.php`)
-- Mettre en place un système de pagination + Afficher un template spécial si page > 1 (voir `pagination.php`)
+- Trier les articles par catégories (`archive.php`)
+- Mettre en place un système de pagination + Afficher un template spécial si page > 1 (`pagination.php`)
 - Traduire le contenu et formatter dates en Anglais + Ajouter un switcher de langues dans le menu du header
-- Ajout d'un slider dynamique (cf. "Slick Slider") pour afficher une liste d'articles appartenant à une certaine catégorie (voir `single.php`)
+- Ajout d'un slider dynamique en Javascript (cf. "Slick Slider") pour afficher une liste d'articles appartenant à une certaine catégorie (`single.php`)
 - Gestion du responsive tablette et mobile
 
 ## Installation
