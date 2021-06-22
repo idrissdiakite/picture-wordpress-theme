@@ -25,5 +25,5 @@ Fichier pour importer articles, catégories, images à la une.. disponible sous:
 
 ## Demo
 
-Vidéo de démonstration du site disponible sous:
-`picture` > `assets` > `demo` > `pictureblog-wordpress.mov`
+Vidéo de démonstration du site disponible ici:
+`https://drive.google.com/file/d/1smJFAmxSP8zreWFDw4ewoZ3Tj-kUhPUN`
