@@ -1,8 +1,10 @@
 # Picture blog Wordpress
 
-Création d'un thème Wordpress sur-mesure effectué lors de mon stage chez **Ultrō** pour le compte de **Picture Organic Clothing**.
+Création d'un thème Wordpress sur-mesure effectué lors de mon stage au sein de l'agence digitale **Ultrō** pour le compte de **Picture Organic Clothing**.
 
-## Objectifs
+![Screenshot](screenshot.png)
+
+## 👀 Objectifs
 
 - Afficher tous les articles sur la page d'accueil (`index.php`)
 - Trier les articles par catégories (`archive.php`)
@@ -11,16 +13,16 @@ Création d'un thème Wordpress sur-mesure effectué lors de mon stage chez **Ul
 - Ajout d'un slider dynamique en Javascript (cf. "Slick Slider") pour afficher une liste d'articles appartenant à une certaine catégorie (`single.php`)
 - Gestion du responsive tablette et mobile
 
-## Installation
+## 🚀 Installation
 
-- git clone git@github.com:idrissdiakite/picture-wordpress-theme.git
+- git clone 
 - cd picture-wordpress-theme
 - docker-compose -f stack.yml up
 - http://localhost:8080
 
-Fichier pour importer articles, catégories, images à la une.. disponible sous:  
+Fichier pour importer articles, catégories, images.. disponible sous:  
 `picture` > `assets` > `src` > `wordpress` > `pictureblog.wp.xml`
 
-## Demo
+## 💫 Demo
 
 Vidéo de démonstration du site disponible [ici](https://drive.google.com/file/d/1smJFAmxSP8zreWFDw4ewoZ3Tj-kUhPUN).
