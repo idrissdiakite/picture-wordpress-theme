@@ -13,17 +13,14 @@ Création d'un thème Wordpress sur-mesure effectué lors de mon stage chez **Ul
 
 ## Installation
 
-```
-git clone git@github.com:idrissdiakite/picture-wordpress-theme.git
-cd picture-wordpress-theme
-docker-compose -f stack.yml up
-http://localhost:8080
-```
+- git clone git@github.com:idrissdiakite/picture-wordpress-theme.git
+- cd picture-wordpress-theme
+- docker-compose -f stack.yml up
+- http://localhost:8080
 
 Fichier pour importer articles, catégories, images à la une.. disponible sous:  
 `picture` > `assets` > `src` > `wordpress` > `pictureblog.wp.xml`
 
 ## Demo
 
-Vidéo de démonstration du site disponible ici:
-`https://drive.google.com/file/d/1smJFAmxSP8zreWFDw4ewoZ3Tj-kUhPUN`
+Vidéo de démonstration du site disponible [ici](https://drive.google.com/file/d/1smJFAmxSP8zreWFDw4ewoZ3Tj-kUhPUN).
