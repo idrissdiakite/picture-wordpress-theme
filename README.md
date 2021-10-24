@@ -23,6 +23,6 @@ Création d'un thème Wordpress sur-mesure effectué lors de mon stage au sein d
 Fichier pour importer articles, catégories, images.. disponible sous:  
 `picture` > `assets` > `src` > `wordpress` > `pictureblog.wp.xml`
 
-## 💫 Demo
+## 💫 Live
 
-Vidéo de démonstration du site disponible [ici](https://drive.google.com/file/d/1smJFAmxSP8zreWFDw4ewoZ3Tj-kUhPUN).
+[http://poc-wp.atwebpages.com](http://poc-wp.atwebpages.com/)
